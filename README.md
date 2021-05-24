@@ -1,6 +1,9 @@
 # RaspiMAX31865
- Temperaturmessung mit Raspi
-https://markdown.de/
+Einfache aber genaue Temperaturmessung mit Raspi und MAX31865
+Anforderungen:
+- von der "Ferne" ablesbar (bis 5m)
+- Lebensmittelecht (Sensoren von Sensorshop24.de)
+
 
 ## Toolchain
 https://projects.raspberrypi.org/en/projects/raspberry-pi-getting-started
