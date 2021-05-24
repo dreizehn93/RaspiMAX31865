@@ -1,11 +1,15 @@
 # RaspiMAX31865
 Einfache aber genaue Temperaturmessung mit Raspi und MAX31865
+
 Anforderungen:
 - von der "Ferne" ablesbar (bis 5m)
-- Lebensmittelecht (Sensoren von Sensorshop24.de)
+- Genauigkeit => 4-Leiter Messung
+- Lebensmittelecht (Sensoren von https://www.sensorshop24.de)
+- Temperaturbereich bis 100°C geeignet
 
 
-## Toolchain
+## Notwendige Informationen und Material
+Informationen:
 https://projects.raspberrypi.org/en/projects/raspberry-pi-getting-started
 https://projects.raspberrypi.org/en/projects/raspberry-pi-setting-up
 https://projects.raspberrypi.org/en/projects/raspberry-pi-using
@@ -13,6 +17,11 @@ https://projects.raspberrypi.org/en/projects/raspberry-pi-using
 
 https://gnutoolchains.com/raspberry/tutorial/
 
+Material:
+- Raspberry Pi 3B
+- Display (hier odroid-vu7 plus)
+- Messumformer (MAX31865) für 4-Leiter Messung
+- Sensor (https://www.sensorshop24.de)
 
 ## Schritte zum Start
 1) Mit Raspberry Pi Imager OS und SD Karte wählen (auf Windows Rechner) - gewählt: RASPBERRY PI OS (Debian derivat)
