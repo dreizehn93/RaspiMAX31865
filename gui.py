@@ -34,6 +34,12 @@ class Application(tk.Frame):
         # initial timer start
         self.onUpdate()
 
+    def progressToggle(self):
+        if self.ueberschrift.cget('bg')=="darkred":
+            self.ueberschrift.config(bg="black")
+        else:
+            self.ueberschrift.config(bg="darkred")
+
     def onUpdate(self):
         #update displayed time
         # Read temperature.
@@ -41,8 +47,10 @@ class Application(tk.Frame):
         # Print the value.
         self.l.config(text="{0:0.1f}".format(temp))
         print("Temperature: {0:0.3f}C".format(temp))
+        self.progressToggle()
         # call myself after 1 second
         self.after(1000, self.onUpdate)
+
 
 root = tk.Tk()
 root.geometry("1000x400")
