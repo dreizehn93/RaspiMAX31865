@@ -3,7 +3,7 @@ Einfache aber genaue Temperaturmessung mit Raspi und MAX31865
 
 Anforderungen:
 - von der "Ferne" ablesbar (bis 5m)
-- Genauigkeit => 4-Leiter Messung
+- Genauigkeit <0,3°C v.MW => 4-Leiter Messung
 - Lebensmittelecht (Sensoren von https://www.sensorshop24.de)
 - Temperaturbereich bis 100°C geeignet
 
