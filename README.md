@@ -74,5 +74,7 @@ Once the file is displayed, add the following lines
 https://www.elektronik-kompendium.de/sites/raspberry-pi/2107011.htm
 
 ## Accesspoint mit lokalem Webserver betreiben
+Um den Temperatursensor auch im Freien vom Tablet oder Handy auslesen zu können folgendes durchführen:
+
 https://forum-raspberrypi.de/forum/thread/6902-raspberry-pi-accesspoint-mit-lokalem-webserver-betreiben/
 
