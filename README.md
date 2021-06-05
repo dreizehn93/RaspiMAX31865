@@ -72,3 +72,7 @@ Once the file is displayed, add the following lines
 # Lösungen zu Issues
 ## Standby abschalten #3
 https://www.elektronik-kompendium.de/sites/raspberry-pi/2107011.htm
+
+## Accesspoint mit lokalem Webserver betreiben
+https://forum-raspberrypi.de/forum/thread/6902-raspberry-pi-accesspoint-mit-lokalem-webserver-betreiben/
+
