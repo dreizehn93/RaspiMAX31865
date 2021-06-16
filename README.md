@@ -1,3 +1,11 @@
+- [RaspiMAX31865](#raspimax31865)
+  - [Notwendige Informationen und Material](#notwendige-informationen-und-material)
+  - [Schritte zum Start](#schritte-zum-start)
+  - [MAX31865 mit dem Raspberry verbinden und programmieren](#max31865-mit-dem-raspberry-verbinden-und-programmieren)
+  - [Troubleshooting](#troubleshooting)
+    - [Odroid Display funktioniert nicht:](#odroid-display-funktioniert-nicht)
+
+
 # RaspiMAX31865
 Einfache aber genaue Temperaturmessung mit Raspi und MAX31865
 
