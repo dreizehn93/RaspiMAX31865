@@ -73,6 +73,16 @@ Once the file is displayed, add the following lines
     hdmi_group=2
     #Set hdmi_mode to 87 which seems to be « custom resolution »
     hdmi_mode=87
+    hdmi_mode=87
     #Set the screen parameters
     hdmi_cvt=1024 600 60 3 0 0 0
+
+# Lösungen zu Issues
+## Standby abschalten #3
+https://www.elektronik-kompendium.de/sites/raspberry-pi/2107011.htm
+
+## Accesspoint mit lokalem Webserver betreiben
+Um den Temperatursensor auch im Freien vom Tablet oder Handy auslesen zu können folgendes durchführen:
+
+https://forum-raspberrypi.de/forum/thread/6902-raspberry-pi-accesspoint-mit-lokalem-webserver-betreiben/
 
