@@ -4,6 +4,9 @@
   - [MAX31865 mit dem Raspberry verbinden und programmieren](#max31865-mit-dem-raspberry-verbinden-und-programmieren)
   - [Troubleshooting](#troubleshooting)
     - [Odroid Display funktioniert nicht:](#odroid-display-funktioniert-nicht)
+- [Lösungen zu Issues](#lösungen-zu-issues)
+  - [Standby abschalten #3](#standby-abschalten-3)
+  - [Accesspoint mit lokalem Webserver betreiben](#accesspoint-mit-lokalem-webserver-betreiben)
 
 
 # RaspiMAX31865
